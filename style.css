@@ -76,6 +76,7 @@
     body {
         padding: 0;
         margin: 0;
+        overflow-x: hidden;
     }
     .navbar__container {
         display: flex;
@@ -437,7 +438,7 @@
     .main6 {
         width: 100%;
         position: relative;
-        margin-top: 25px;
+        margin-top: 20px;
     }
     .main6__image {
         width: 100%;
@@ -531,7 +532,7 @@
 @media screen and (max-width: 600px) {
     .testimonials {
         position: absolute;
-       margin-top: 2300px;
+       margin-top: 2330px;
        width: 100%;
     }
     .testimonial__heading {
